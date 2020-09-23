@@ -1,0 +1,7 @@
+.main-btn {
+    background-color: goldenrod;
+    width: 170px;
+    cursor: pointer;
+    border: 1px solid lightgoldenrodyellow;
+    border-radius: 5px;
+}
